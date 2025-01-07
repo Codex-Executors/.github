@@ -118,6 +118,8 @@ Your data and privacy are paramount. CodeX Executor employs state-of-the-art enc
 
 Enjoy 24/7 customer support to assist you with any queries or issues you may encounter while using CodeX Executor. A dedicated support team is always ready to help.
 
+## FAQs
+
 ### Is Codex Executor Free?
 
 Codex Executor comes with free and paid both version.
